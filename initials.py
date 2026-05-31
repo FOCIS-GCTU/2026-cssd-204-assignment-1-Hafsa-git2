@@ -9,9 +9,9 @@
 # and I have not provided this code to any other student.
 def main():
   pass #code goes here
-  print()
-  print("...HAH")
-  print()
+   print()
+   print("...HAH")
+   print()
    print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
    print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
    print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
