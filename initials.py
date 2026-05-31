@@ -8,19 +8,23 @@
 # On my honor, Hafsa Ahmed Hama, this programming assignment is my own work
 # and I have not provided this code to any other student.
 def main():
-  pass #code goes here
-   print()
-   print("...HAH")
-   print()
-   print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
-   print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
-   print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
-   print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
-   print("...HHHH.HHHH..HHHH........AAAA.AA.AAAA........HHHH.HHHH..HHHH.....")
-   print("...HHHH.HHHH..HHHH........AAAA.AA.AAAA........HHHH.HHHH..HHHH.....")
-   print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
-   print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
-   print("...HHHH.......HHHH...**...AAAA....AAAA...**...HHHH.......HHHH...**")
-   print("...HHHH.......HHHH...**...AAAA....AAAA...**...HHHH.......HHHH...**")
-   print()
+   
+  print()
+  
+  print("...HAH")
+  
+  print()
+  
+  print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
+  print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
+  print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
+  print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
+  print("...HHHH.HHHH..HHHH........AAAA.AA.AAAA........HHHH.HHHH..HHHH.....")
+  print("...HHHH.HHHH..HHHH........AAAA.AA.AAAA........HHHH.HHHH..HHHH.....")
+  print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
+  print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
+  print("...HHHH.......HHHH...**...AAAA....AAAA...**...HHHH.......HHHH...**")
+  print("...HHHH.......HHHH...**...AAAA....AAAA...**...HHHH.......HHHH...**")
+  
+  print()
 main()
