@@ -1,6 +1,6 @@
 # File: initials.py
 # Description: Printing out my initials per specific parameters
-# Assignment Number: 2
+# Assignment Number: 1
 # Name: Hafsa Ahmed Hama
 # STUDENT ID: 2425402422
 # Email: 2425402422@live.gctu.edu.gh
@@ -10,11 +10,8 @@
 def main():
   pass #code goes here
   print()
-
-   print("...HAH")
-
-   print()
-
+  print("...HAH")
+  print()
    print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
    print("...HHHH.......HHHH........AAAAAAAAAAAA........HHHH.......HHHH.....")
    print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
@@ -25,9 +22,5 @@ def main():
    print("...HHHH.......HHHH........AAAA....AAAA........HHHH.......HHHH.....")
    print("...HHHH.......HHHH...**...AAAA....AAAA...**...HHHH.......HHHH...**")
    print("...HHHH.......HHHH...**...AAAA....AAAA...**...HHHH.......HHHH...**")
- 
    print()
-
-
-
 main()
